@@ -4,7 +4,7 @@
 
 This project analyzes passenger reviews of global aircrafts using an interactive Tableau dashboard. The reviews are rated on a **1 to 5 scale**, and the dashboard helps visualize aircraft performance, customer sentiment trends, and regional review patterns to support better decision-making.
 
-🔗 **Live Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/FlightReview_17473852126420/Dashboard1](https://public.tableau.com/views/FlightReview_17473852126420/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 **Live Dashboard:** [View on Tableau Public] - https://public.tableau.com/views/FlightReview_17473852126420/Dashboard1](https://public.tableau.com/views/FlightReview_17473852126420/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
